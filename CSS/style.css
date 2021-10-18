@@ -1,27 +1,23 @@
 /* you can change any of the default styles below */
 
-html {
-  box-sizing: border-box;
-}
-
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
 * {
   margin: 0;
   padding: 0;
   font-size: 10px;
 }
 
+nav {
+  height: 15px;
+}
+
 main {
-  background-color: #F8F4E3;
+  background-color: #F8F4E3
   height: 100vh;
 }
 
 p {
   color: 2A2B2A;
-  fontsize: 1.8rem
+  fontsize: 1.8rem;
 }
 
 img {
